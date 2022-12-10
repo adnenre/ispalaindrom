@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<coverage generated="1670659887861" clover="3.2.0">
-  <project timestamp="1670659887861" name="All files">
+<coverage generated="1670661624369" clover="3.2.0">
+  <project timestamp="1670661624369" name="All files">
     <metrics statements="24" coveredstatements="24" conditionals="6" coveredconditionals="6" methods="2" coveredmethods="2" elements="32" coveredelements="32" complexity="0" loc="24" ncloc="24" packages="1" files="1" classes="1"/>
     <file name="index.js" path="C:\Users\adnen\OneDrive\Desktop\algorithm\isPalaindrom\index.js">
       <metrics statements="24" coveredstatements="24" conditionals="6" coveredconditionals="6" methods="2" coveredmethods="2"/>
