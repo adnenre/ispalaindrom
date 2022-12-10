@@ -1,9 +1,9 @@
 {
   "name": "@adnen/ispalaindrom",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "isPalaindrom algoritme , just checking to the middel of the string",
   "type": "module",
-  "main": "index.js",
+  "main": "dist/index.js",
   "homepage" : "https://github.com/adnenre/ispalaindrom.git",
   "keywords": [
     "isPalaindrom algorithme",
