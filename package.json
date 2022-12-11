@@ -1,6 +1,6 @@
 {
   "name": "@adnen/ispalaindrom",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "isPalaindrom algoritme , just checking to the middel of the string",
   "type": "module",
   "main": "dist/index.js",
