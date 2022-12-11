@@ -31,3 +31,12 @@ describe("isPalindrom ", () => {
     expect(result).toBeTruthy();
   });
 });
+
+describe("all string are Plindrom",() =>{
+  const strs : string[] = ['redivider', 'deified', 'civic', 'radar', 'level', 'rotor', 'kayak', 'reviver', 'racecar', 'madam','','a'];
+  const result = strs.map(isPalindrome);
+  const expected = [true,true,true,true,true,true,true,true,true,true,true,true]
+  it('5 check if all string are plaindrom',() =>{
+    expect(result).toEqual(expected)
+  })
+})
